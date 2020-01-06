@@ -3,4 +3,5 @@ Introduction to exceptions:
 - catch
 - throws
 - multy-catch
+Algoritms
 30 ефылы
