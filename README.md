@@ -4,4 +4,4 @@ Introduction to exceptions:
 - throws
 - multy-catch
 Algoritms
-30 ефылы
+30 tasks
