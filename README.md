@@ -3,5 +3,5 @@ Introduction to exceptions:
 - catch
 - throws
 - multy-catch
-- Algoritms
+- Algorithms
 - 30 tasks
